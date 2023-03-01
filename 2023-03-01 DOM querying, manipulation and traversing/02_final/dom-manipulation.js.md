@@ -1,6 +1,6 @@
 ---
 title: "dom-manipulation"
-theme: "white"
+theme: "black"
 ---
 
 ## Manipulating: Changing the DOM tree

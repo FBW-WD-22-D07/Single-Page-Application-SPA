@@ -1,6 +1,6 @@
 ---
 title: "dom-querying"
-theme: "white"
+theme: "black"
 ---
  
 ## Querying: Getting elements from 'document'

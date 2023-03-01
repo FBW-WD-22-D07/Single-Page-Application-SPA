@@ -1,6 +1,6 @@
 ---
 title: "dom-traversing"
-theme: "white"
+theme: "black"
 ---
 
 
